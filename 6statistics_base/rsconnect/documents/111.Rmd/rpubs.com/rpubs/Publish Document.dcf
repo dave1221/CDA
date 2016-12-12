@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/234710/0b4104d906264cd69cfa20a4b480839f
+bundleId: https://api.rpubs.com/api/v1/document/234710/0b4104d906264cd69cfa20a4b480839f
+url: http://rpubs.com/jiangzhu/234710
+when: 1481528530.47018
